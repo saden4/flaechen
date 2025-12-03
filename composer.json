@@ -1,0 +1,19 @@
+{
+    "name": "saden4/php_rechteck",
+    "description": "a library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Saden4\\PhpRechteck\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "saden4",
+            "email": "adsalihovic@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
