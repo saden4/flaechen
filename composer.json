@@ -1,11 +1,11 @@
 {
-    "name": "saden4/php_rechteck",
+    "name": "saden4/flaechen",
     "description": "a library",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Saden4\\PhpRechteck\\": "src/"
+            "Saden4\\Flaechen\\": "src/"
         }
     },
     "authors": [
